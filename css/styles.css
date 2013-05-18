@@ -20,6 +20,11 @@
     width: 72px;
     height: 52px;
 }
+.product-image1 img{
+    width: 210px;
+    height: 200px;
+    padding-top: 50px;
+}
 .product-name{
     color: #cd5033;
     font-family: "Trebuchet MS",Arial,Helvetica,sans-serif;
@@ -40,6 +45,7 @@
 a{
     color: #1e7ec8;
     text-decoration: underline;
+    margin-left:5px;
 }
 p{
     margin-bottom: 0.8px;
@@ -57,6 +63,7 @@ p{
     font-weight: bold;
     font-size: 13px;
     color: #ea511e;
+    margin-left:5px;
 }
 .product-pricing{
     margin: 10px 0;
@@ -327,6 +334,8 @@ ol{
  }
 .related .content{
     padding: 5px;
+    margin-top: -20px;
+    margin-left: -5px;
 }
 .price-box{
     height: 38px;
@@ -460,6 +469,7 @@ td.data2{
     border-bottom: none!important;
     margin-left: -25px;
     margin-right: 0px;
+    margin-top: 0px;
 }
 .add-to-holder .add-to-cart-box {
     float: left;
@@ -593,7 +603,7 @@ tbody{
         margin-right: auto;
     }
     .product-shop{
-        margin-top: 350px;
+        margin-top: 310px;
     }
     .col-right{
         margin-left: 135px;
@@ -625,6 +635,16 @@ tbody{
     }
     .product-spec{
         width:400px;
+    }
+    .product-image .prdimg{
+        margin-left: 28px;
+    }
+    .related .content li{
+        margin-left: -5px;
+        margin-top: 10px;
+    }
+    .regular-price .price{
+        margin-left: 40px;
     }
 }
 @media only screen and (max-width: 480px){
@@ -660,5 +680,15 @@ tbody{
         padding-left: 20px!important;
         border-right: 1px solid #D9DDE3;
         padding-right: 10px;
+    }
+    .product-image .prdimg{
+        margin-left: 28px;
+    }
+    .related .content li{
+        margin-left: -5px;
+        margin-top: 10px;
+    }
+    .regular-price .price{
+        margin-left: 40px;
     }
 }

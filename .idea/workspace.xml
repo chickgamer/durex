@@ -2,14 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0a75798f-f5ec-4de1-ac74-ed9745f43d13" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/durex.htm" afterPath="$PROJECT_DIR$/durex.htm" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/styles.css" afterPath="$PROJECT_DIR$/css/styles.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="durex.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="0a75798f-f5ec-4de1-ac74-ed9745f43d13" time="1368864453724" ignored="false" />
     <file path="/durex.htm" changelist="0a75798f-f5ec-4de1-ac74-ed9745f43d13" time="1368881498451" ignored="false" />
-    <file path="/styles.css" changelist="0a75798f-f5ec-4de1-ac74-ed9745f43d13" time="1368885671863" ignored="false" />
+    <file path="/styles.css" changelist="0a75798f-f5ec-4de1-ac74-ed9745f43d13" time="1368887456288" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,10 +29,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="durex.htm" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="durex.htm" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/durex.htm">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="53" selection-start="356" selection-end="356" vertical-scroll-proportion="-7.8461537">
+            <state line="13" column="29" selection-start="388" selection-end="388" vertical-scroll-proportion="0.3184438">
               <folding>
                 <element signature="tag#div#1;tag#div#0;tag#div#0;tag#div#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
                 <element signature="tag#div#2;tag#div#0;tag#div#2;tag#div#0;tag#div#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
@@ -43,15 +43,13 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="styles.css" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="styles.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/styles.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="479" column="34" selection-start="9876" selection-end="9876" vertical-scroll-proportion="0.37570623">
+            <state line="671" column="12" selection-start="13600" selection-end="13600" vertical-scroll-proportion="-12.68">
               <folding>
-                <element signature="e#10138#10902#0" expanded="false" />
-                <element signature="e#10903#11859#0" expanded="false" />
-                <element signature="e#11860#12793#0" expanded="false" />
-                <element signature="e#12794#13482#0" expanded="false" />
+                <element signature="e#10330#11094#0" expanded="false" />
+                <element signature="e#11095#12051#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -176,7 +174,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1456" height="916" extended-state="1" />
+    <frame x="-8" y="-8" width="1456" height="916" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -275,10 +273,8 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="285" column="20" selection-start="5639" selection-end="5639" vertical-scroll-proportion="0.0">
           <folding>
-            <element signature="e#10138#10902#0" expanded="false" />
-            <element signature="e#10903#11859#0" expanded="false" />
-            <element signature="e#11860#12793#0" expanded="false" />
-            <element signature="e#12794#13482#0" expanded="false" />
+            <element signature="e#10330#11094#0" expanded="false" />
+            <element signature="e#11095#12051#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -299,10 +295,8 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="322" column="25" selection-start="6503" selection-end="6503" vertical-scroll-proportion="0.0">
           <folding>
-            <element signature="e#10138#10902#0" expanded="false" />
-            <element signature="e#10903#11859#0" expanded="false" />
-            <element signature="e#11860#12793#0" expanded="false" />
-            <element signature="e#12794#13482#0" expanded="false" />
+            <element signature="e#10330#11094#0" expanded="false" />
+            <element signature="e#11095#12051#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -323,10 +317,8 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="351" column="23" selection-start="7049" selection-end="7049" vertical-scroll-proportion="0.0">
           <folding>
-            <element signature="e#10138#10902#0" expanded="false" />
-            <element signature="e#10903#11859#0" expanded="false" />
-            <element signature="e#11860#12793#0" expanded="false" />
-            <element signature="e#12794#13482#0" expanded="false" />
+            <element signature="e#10330#11094#0" expanded="false" />
+            <element signature="e#11095#12051#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -351,26 +343,24 @@
         <state />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/css/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="671" column="12" selection-start="13600" selection-end="13600" vertical-scroll-proportion="-12.68">
+          <folding>
+            <element signature="e#10330#11094#0" expanded="false" />
+            <element signature="e#11095#12051#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/durex.htm">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="53" selection-start="356" selection-end="356" vertical-scroll-proportion="-7.8461537">
+        <state line="13" column="29" selection-start="388" selection-end="388" vertical-scroll-proportion="0.3184438">
           <folding>
             <element signature="tag#div#1;tag#div#0;tag#div#0;tag#div#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
             <element signature="tag#div#2;tag#div#0;tag#div#2;tag#div#0;tag#div#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
             <element signature="tag#div#1;tag#div#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
             <element signature="tag#div#1;tag#div#1;tag#div#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/styles.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="479" column="34" selection-start="9876" selection-end="9876" vertical-scroll-proportion="0.37570623">
-          <folding>
-            <element signature="e#10138#10902#0" expanded="false" />
-            <element signature="e#10903#11859#0" expanded="false" />
-            <element signature="e#11860#12793#0" expanded="false" />
-            <element signature="e#12794#13482#0" expanded="false" />
           </folding>
         </state>
       </provider>
